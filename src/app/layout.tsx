@@ -13,6 +13,11 @@ export const metadata: Metadata = {
   title: 'Figurinhas da Copa | Landing Page',
   description:
     'Organize sua coleção, marque repetidas e descubra com quem trocar figurinhas da Copa com ranking inteligente.',
+  icons: {
+    icon: '/brand/world-cup-2026-emblem.svg',
+    shortcut: '/brand/world-cup-2026-emblem.svg',
+    apple: '/brand/world-cup-2026-emblem.svg',
+  },
 }
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
