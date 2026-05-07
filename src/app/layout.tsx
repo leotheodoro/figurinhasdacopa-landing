@@ -10,7 +10,7 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: 'Figurinhas da Copa | Landing Page',
+  title: 'Troque figurinhas da copa',
   description:
     'Organize sua coleção, marque repetidas e descubra com quem trocar figurinhas da Copa com ranking inteligente.',
   icons: {
